@@ -1,12 +1,16 @@
-## Hi there 👋
-I'm an Automation QA with 3 years of experience, specialized in Cypress and Playwright.
+## Hi there 👋  
+I'm an **Automation QA Engineer** with **3 years of experience**, specialized in **Cypress, Playwright, Selenium, and API testing.**  
 
-- 🔭 I’m currently working on enhancing automated testing frameworks.
-- 🌱 I’m currently learning advanced test automation strategies.
-- 👯 I’m looking to collaborate on open-source testing tools.
-- 🤔 I’m looking for help with mastering performance testing.
-- 💬 Ask me about test automation and continuous integration.
-- 📫 How to reach me: [guillermorochea@gmail.com](mailto:guillermorochea@gmail.com)
-- ⚡ Fun fact: I enjoy solving complex algorithm challenges like Google Hashcode!
-- 🌍 I'm looking for new opportunities after moving to the US.
+### 🔹 About Me
+- 🔭 Expanding my expertise in **automated testing frameworks** such as Postman/Newman, Cypress, Playwright, Selenium, and Apache JMeter.  
+- 🌱 Learning **advanced test automation strategies** to enhance software quality and efficiency.  
+- 🤔 Passionate about improving test automation solutions and CI/CD integration.  
+- 💬 Ask me about **test automation, CI/CD, and performance testing.**  
+- 🧪 Expertise in **Manual Testing, E2E Testing, API Testing, and Performance Testing.**  
+- 🔧 Currently developing an **automated regression test suite for the OrangeHRM platform.**  
+- ⚡ I enjoy solving algorithm challenges like those in **Google Hashcode.**  
+- 🌍 Recently moved to the **U.S.** and open to new opportunities!  
+- 🛠️ Knowledge of **DevOps practices**, enabling the integration of automated tests into **Jenkins workflows** for periodic execution or event-triggered test runs.  
 
+### 📫 Contact Me
+[guillermorochea@gmail.com](mailto:guillermorochea@gmail.com)
